@@ -1,2 +1,2 @@
 #!/bin/bash
-The command will output the kernel name, which is a part of the overall system information that uname can provide.
+uname
